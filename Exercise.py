@@ -1,4 +1,5 @@
 # class 1
+#modi vnaxot ra moxdeba
 class Group_1:
     def __init__(self, V1):
         self.SCHOOL_YEAR = V1[0]
