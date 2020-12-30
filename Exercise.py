@@ -1,5 +1,4 @@
 # class 1
-#modi vnaxot ra moxdeba
 class Group_1:
     def __init__(self, V1):
         self.SCHOOL_YEAR = V1[0]
@@ -125,8 +124,8 @@ class Result(Group_1, Group_2, Group_3, Group_4):
 # main prog
 
 #reading from file
-with open("BC_data.in", "r") as f:
-    arr = f.readlines()
+with open("BC_data.in", "r") as data:
+    arr = data.readlines()
 # Enter the data we want to print from the keyboard
 x = str(input("choose which data you need : "
                         "\n1) SCHOOL_YEAR"
