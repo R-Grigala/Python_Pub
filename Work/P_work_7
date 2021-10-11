@@ -1,0 +1,2 @@
+თუ , A1  A2  A3, არიან bool ტიპის, მაშინ
+(A1 and A2) or (A1 and A3) <==> A1 and (A2 or A3)
