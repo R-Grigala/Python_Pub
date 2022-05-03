@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
+#test aba vnaxot
 # წავიკითხოთ მონაცემები excel-ის ფაილიდან
 file_location = "data_v.xlsx"
 visitor = pd.read_excel(file_location)
